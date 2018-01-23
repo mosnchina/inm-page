@@ -1,0 +1,19 @@
+{
+  "name": "inm-page",
+  "version": "1.0.0",
+  "description": "web faa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosnchina/inm-page.git"
+  },
+  "author": "mosnchina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosnchina/inm-page/issues"
+  },
+  "homepage": "https://github.com/mosnchina/inm-page#readme"
+}

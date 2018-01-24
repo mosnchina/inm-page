@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/mosnchina/inm-page#readme",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "cheerio": "^1.0.0-rc.2",
+    "gulp": "^3.9.1",
+    "table": "^4.0.2"
   }
 }
